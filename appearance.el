@@ -4,8 +4,7 @@
 (tooltip-mode -1)
 (fringe-mode 5)
 
-(load-theme 'github-modern t)
-(set-face-attribute 'default nil :family "Hack" :height 140 :weight 'normal)
+(set-face-attribute 'default nil :family "FiraCode" :height 120 :weight 'normal)
 (set-background-color "#edede1")
 
 (show-paren-mode)
